@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZRP07EW+kJK+73fhHf36DS/o4qLPixU7rfDqDTJbwKmzaLul/SWPvGT/Sm8G5/xc0RAo0HiltDxu4p8vLvqsQ==",
+  "success": true,
+  "projectFilePath": "/home/eraser/GlobUs/GlobUs-DB-Server/GlobUs-DB-Server.csproj",
+  "expectedPackageFiles": [
+    "/home/eraser/.nuget/packages/microsoft.data.sqlite/7.0.3/microsoft.data.sqlite.7.0.3.nupkg.sha512",
+    "/home/eraser/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
+    "/home/eraser/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/eraser/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/home/eraser/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/eraser/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/eraser/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
